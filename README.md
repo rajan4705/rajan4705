@@ -1,6 +1,9 @@
 
 <h1 align="center">Konichiwa, Minnasan</h1>
 <h3 align="center">Converting words into codes.</h3>
+<br>
+
+<img src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" width="350px" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan4705&label=Profile%20views&color=0e75b6&style=flat" alt="rajan4705" /> </p>
 
