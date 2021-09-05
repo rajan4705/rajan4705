@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan4705&label=Profile%20views&color=0e75b6&style=flat" alt="rajan4705" /> </p>
 
-<p align="left"> <a href="https://twitter.com/biggchungus" target="blank"><img src="https://img.shields.io/twitter/follow/biggchungus?logo=twitter&style=for-the-badge" alt="biggchungus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/biggchungas" target="blank"><img src="https://img.shields.io/twitter/follow/biggchungus?logo=twitter&style=for-the-badge" alt="biggchungus" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Frontend**
 
