@@ -1,5 +1,5 @@
 
-<h1 align="center">Konichiwa, Minnasan</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">Converting words into codes.</h3>
 <br>
 
