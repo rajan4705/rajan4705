@@ -3,8 +3,6 @@
 <h3 align="center">Converting words into codes.</h3>
 <br>
 
-<img src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" width="350px" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan4705&label=Profile%20views&color=0e75b6&style=flat" alt="rajan4705" /> </p>
 
 <p align="left"> <a href="https://twitter.com/biggchungas" target="blank"><img src="https://img.shields.io/twitter/follow/biggchungus?logo=twitter&style=for-the-badge" alt="biggchungus" /></a> </p>
