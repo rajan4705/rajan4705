@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome</h1>
-<h3 align="center">Converting words into codes.</h3>
+<h3 align="center">Converting ideas into codes.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajan4705&label=Profile%20views&color=0e75b6&style=flat" alt="rajan4705" /> </p>
